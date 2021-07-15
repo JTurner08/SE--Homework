@@ -1,0 +1,47 @@
+h1 {text-decoration: underline;
+    display: inline;}
+P {font-size: 20;
+    font-style:oblique;}  
+li {font-style: italic;}
+html {background-color: blanchedalmond;}    
+li {color: purple;}
+#firstLorem{color: green;}
+.Germanwelcome{color: blue;}
+
+.div#1 {background-color: rgb(19, 18, 18);}
+.div#2 {background-color: thistle;}
+.div#3 {background-color: turquoise;}
+.div#4 {background-color: rebeccapurple;}
+
+form {padding: 20px;
+    background-color: white;
+    font-style: italic;
+    border-style: solid;
+    font-weight: 750px;
+    display: block;
+
+}
+
+input[type=button] {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 7.5px;
+    border: blanchedalmond;
+    
+}
+
+input[type=button]:hover{
+    color: white;
+    background-color:rgb(155, 31, 31) ;
+    border: chocolate;
+}
+
+.div#1{position: relative;}
+.div#2{position: absolute;}
+
+
+
+
+
+
+
